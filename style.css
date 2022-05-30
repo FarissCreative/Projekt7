@@ -330,6 +330,20 @@ color: white;
   margin-bottom: 80px;
 }
 
+/*Kontakt*/
+
+#kontakt h2{
+  margin-top: 0px;
+}
+
+#kontakt .wp-container-4 {
+  margin: 50px 70px 20px 70px;
+}
+
+#kontakt p{
+  margin-bottom: 5px;
+}
+
 
 /* Værelser og ophold */
 h2{
