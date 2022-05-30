@@ -162,6 +162,95 @@ margin-right : 20px;
 color: white;
 }
 
+/* Page content Restaurant */
+#restaurant h2{
+  margin-left: 70px;
+  margin-top: 50px;
+}
+
+#restaurant .wp-block-columns .wp-block-column .wp-block-columns{
+  margin: 0;
+  padding: 0px 0px 0px 0px;
+}
+
+#restaurant .wp-block-column.is-vertically-aligned-center{
+  background-color: #EEEDE5;
+  margin-bottom: 20px;
+}
+
+#restaurant .wp-block-column h3{
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding-left: 100px;
+}
+
+#restaurant h1{
+  padding-left: 100px;
+  padding-bottom: 20px;
+}
+
+#restaurant .wp-block-cover.is-light{
+  padding: 12em 1em 5em 1em;
+  margin-bottom: 50px;
+}
+
+
+
+#restaurant .wp-block-columns .wp-block-column {
+  margin-top: 20px;
+}
+
+#restaurant .wp-container-3{
+  margin: 0px 70px 0px 70px;
+}
+
+#restaurant .wp-container-20{
+  padding: 90px 20px 90px 20px;
+}
+
+#restaurant .wp-container-24{
+  margin: 0px 70px 0px 70px;
+}
+
+#restaurant .wp-container-27 p{
+  margin-left: 100px;
+  margin-bottom: 5px;
+}
+
+#restaurant .wp-container-26{
+  margin-left: 100px;
+}
+
+#restaurant .wp-container-28{
+  margin: 50px 70px 100px 70px;
+}
+
+#restaurant .wp-container-35{
+  margin: 0px;
+  padding-bottom: 50px;
+  background-color: #EEEDE5;
+}
+
+#restaurant .wp-container-34 .has-text-align-center{
+  padding: 0px;
+}
+
+#restaurant .wp-block-cover.is-light{
+  padding: 1em 1em 5em 1em;
+  margin-bottom: 50px;
+}
+
+#restaurant .wp-block-column {
+  margin-top: 20px;
+}
+
+
+
+.elementor-container elementor-column-gap-default{
+  margin-bottom: 70px;
+}
+
+
 /* Værelser og ophold */
 h2{
   margin-left: 70px;
