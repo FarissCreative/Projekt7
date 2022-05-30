@@ -1,0 +1,92 @@
+/*@@charset "UTF-8";
+/* CSS Document*/
+
+/*
+Theme Name: Hotel Villa Gulle
+Author: Jonna Matras Hansen
+Author URI: http://Matras.dk
+Description: mit første tema. Grineren
+Version: 0.1
+*/
+
+body {
+  background-color: #FFFFFF;
+  color:#16372E;
+}
+
+h2{
+  font-size: 20px;
+}
+
+*{
+  margin: 0;
+  font-family: Gormorant Garamond;
+  line-height: 1.5;
+}
+
+
+.navbar{
+  background-color: #173A31;
+  width: 95%;
+  height: 120px;
+  display: flex;
+  position: fixed;
+  z-index: 10;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.navbar img{
+  max-height: 100px;
+  max-width: 500px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0 0 0 200px;
+  list-style: none;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+
+}
+
+li a {
+  display: block;
+  width: 100%;
+  text-decoration: none;
+  padding:  5px 15px;
+  text-align: center;
+  color: white;
+}
+
+/*phjone number*/
+.phonenumber{
+  color: white;
+}
+
+.book p{
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.bookbtn{
+  width: 100%;
+  border-color: white;
+  background-color: #173A31;
+  color: white;
+  padding: 5px;
+}
+
+.book{
+  display : flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
